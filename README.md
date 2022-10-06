@@ -2,7 +2,7 @@
 Make sure to install pygame (pip install pygame) before running
 
 # Dragon (dragon.py)
-Controls: /n
+Controls: </br>
 Arrow keys - Move 
 Space - Shoot fire
 
