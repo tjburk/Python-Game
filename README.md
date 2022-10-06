@@ -3,9 +3,9 @@ Make sure to install pygame (pip install pygame) before running
 
 # Dragon (dragon.py)
 Controls: </br>
-Arrow keys - Move 
-Space - Shoot fire
+Arrow keys - Move </br>
+Space - Shoot fire 
 
 # Falldown (falldown.py)
-Controls:
+Controls: </br>
 Arrow keys - Move
