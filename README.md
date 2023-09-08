@@ -1,5 +1,5 @@
 # Python-Games
-A collection of easy and simple games in Python
+A collection of easy and simple games in Python. </br>
 Make sure to install pygame (pip install pygame) before running
 
 # How to run
